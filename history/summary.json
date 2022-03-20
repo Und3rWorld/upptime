@@ -42,18 +42,19 @@
     "url": "https://webmail.caonao.cu",
     "icon": "https://favicons.githubusercontent.com/webmail.caonao.cu",
     "slug": "web-mail-caonao",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "74.27%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "74.23%",
     "uptimeWeek": "96.32%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 913,
     "timeDay": 1009,
     "timeWeek": 831,
     "timeMonth": 913,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2022-03-20": 1,
       "2022-03-19": 370
     }
   },
@@ -62,18 +63,19 @@
     "url": "https://www.ciac.cu",
     "icon": "https://favicons.githubusercontent.com/www.ciac.cu",
     "slug": "portal-ciac",
-    "status": "up",
-    "uptime": "98.36%",
+    "status": "down",
+    "uptime": "98.41%",
     "uptimeDay": "75.09%",
     "uptimeWeek": "96.44%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 539,
     "timeDay": 506,
     "timeWeek": 463,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
+      "2022-03-20": 0,
       "2022-03-19": 359
     }
   }
