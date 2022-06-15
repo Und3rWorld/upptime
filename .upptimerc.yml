@@ -5,12 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: WebMail CIAC
-    url: https://webmail.ciac.cu
-  - name: WebMail Caonao
-    url: https://webmail.caonao.cu
-  - name: Portal Ciac
-    url: https://www.ciac.cu
+  - name: SysAdmins de Cuba
+    url: https://www.sysadminsdecuba.cu
 assignees: Und3rWorld
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
